@@ -37,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1280-students-and-examinations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
