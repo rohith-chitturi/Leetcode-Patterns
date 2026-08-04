@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> res=new ArrayList<>();
-        List<Integer> arr=new ArrayList<>();
+        Set<Integer> arr=new HashSet<>();
         // for(int i:nums){
         //     arr.add(i);
         // }
