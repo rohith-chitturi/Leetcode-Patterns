@@ -1,0 +1,29 @@
+class Solution {
+    public boolean validPalindrome(String s) {
+        int n=s.length();
+        int left=0;
+        int right=n-1;
+        while(left<right){
+            char ch1=s.charAt(left);
+            char ch2=s.charAt(right);
+            if(ch1==ch2){
+                left++;
+                right--;
+            }
+            else{
+                return isPalindrome(s,left+1,right) || isPalindrome(s,left,right-1);
+            }
+        }
+        return true;
+    }
+    private boolean isPalindrome(String s,int left,int right){
+        while(left<right){
+            if(s.charAt(left)!=s.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
