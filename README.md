@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3731-find-missing-elements) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
 | [3731-find-missing-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
