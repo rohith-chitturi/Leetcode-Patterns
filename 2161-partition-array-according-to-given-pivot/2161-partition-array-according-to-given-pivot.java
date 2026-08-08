@@ -16,7 +16,7 @@ class Solution {
             j--;
         }
         while(left<=right){
-            ans[right--]=pivot;
+            ans[left++]=pivot;//here we can also write right--
         }
         return ans;
     }
