@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
