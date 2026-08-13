@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3731-find-missing-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
