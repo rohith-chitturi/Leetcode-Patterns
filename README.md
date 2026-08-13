@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 ## Timsort
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
