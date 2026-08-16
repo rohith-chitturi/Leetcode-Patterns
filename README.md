@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -55,18 +57,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -217,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -255,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
