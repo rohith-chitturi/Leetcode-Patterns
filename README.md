@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 ## Timsort
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Nim Game
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
