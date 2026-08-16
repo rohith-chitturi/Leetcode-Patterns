@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
