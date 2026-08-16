@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
+| [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
+| [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 ## Timsort
 |  |
 | ------- |
