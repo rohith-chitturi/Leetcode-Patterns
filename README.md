@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
