@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 ## Timsort
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Nim Game
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
