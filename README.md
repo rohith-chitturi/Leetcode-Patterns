@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Nim Game
 |  |
 | ------- |
@@ -314,10 +318,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
