@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
