@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
@@ -352,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
