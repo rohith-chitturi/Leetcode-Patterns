@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
