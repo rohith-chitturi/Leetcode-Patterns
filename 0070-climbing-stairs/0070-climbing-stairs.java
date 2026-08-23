@@ -5,7 +5,7 @@ class Solution {
        return dynamicprogramming(n,dp); 
     }
     public int dynamicprogramming(int n,int[] dp){
-        if(n==1 || n==2) return n;
+        if(n==1 || n==2 || n==3) return n;
         if(dp[n]!=-1){
             return dp[n];
         }
