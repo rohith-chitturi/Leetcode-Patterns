@@ -5,12 +5,11 @@ class Solution {
             set.add(num);
         }
         //int prod=1;
-        for(int i=1;i<200;i++){
+        for(int i=1;;i++){
            int prod=i*k;
            if(!set.contains(prod)){
             return prod;
            } 
         }
-        return -1;
     }
 }
