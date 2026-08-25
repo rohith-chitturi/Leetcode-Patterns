@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -390,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
