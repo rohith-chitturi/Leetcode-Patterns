@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0424-longest-repeating-character-replacement) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
