@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3731-find-missing-elements) |
 ## Database
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
