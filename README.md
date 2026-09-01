@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1667-fix-names-in-a-table) |
