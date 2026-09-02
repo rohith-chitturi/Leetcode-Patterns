@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0550-game-play-analysis-iv) |
+| [0585-investments-in-2016](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0626-exchange-seats) |
