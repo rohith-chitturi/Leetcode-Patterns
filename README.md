@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0585-investments-in-2016) |
