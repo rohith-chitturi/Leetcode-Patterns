@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
