@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0643-maximum-average-subarray-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
