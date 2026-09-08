@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1590-make-sum-divisible-by-p](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1872-stone-game-viii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1563-stone-game-v) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
