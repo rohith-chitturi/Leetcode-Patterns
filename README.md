@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
