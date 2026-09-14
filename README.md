@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0151-reverse-words-in-a-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -638,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
