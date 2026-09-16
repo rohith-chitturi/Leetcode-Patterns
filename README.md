@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0238-product-of-array-except-self) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
