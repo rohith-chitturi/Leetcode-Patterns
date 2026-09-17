@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0238-product-of-array-except-self) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0338-counting-bits) |
