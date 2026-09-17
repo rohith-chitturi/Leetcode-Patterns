@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0973-k-closest-points-to-origin) |
