@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
