@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0191-number-of-1-bits) |
