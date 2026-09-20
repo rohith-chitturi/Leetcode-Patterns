@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
