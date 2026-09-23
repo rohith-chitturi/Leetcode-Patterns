@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0713-subarray-product-less-than-k) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0713-subarray-product-less-than-k) |
