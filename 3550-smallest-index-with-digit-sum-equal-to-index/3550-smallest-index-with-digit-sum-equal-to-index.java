@@ -9,17 +9,10 @@ class Solution {
                 digitsum+=digit;
                 temp=temp/10;
             }
-            digitlist.add(digitsum);
-        }
-        int smallest=Integer.MAX_VALUE;
-        for(int i=0;i<digitlist.size();i++){
-            if(i==digitlist.get(i)){
-                smallest=Math.min(smallest,i);
+            if(i==digitsum){
+                return i;
             }
         }
-        if(smallest==Integer.MAX_VALUE){
-            return -1;
-        }
-        return smallest;
+        return -1;
     }
 }
