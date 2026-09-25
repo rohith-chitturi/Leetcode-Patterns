@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Nim Game
