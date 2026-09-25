@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
