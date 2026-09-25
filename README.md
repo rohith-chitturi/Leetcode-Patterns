@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2090-k-radius-subarray-averages) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
