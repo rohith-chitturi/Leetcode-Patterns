@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0151-reverse-words-in-a-string) |
