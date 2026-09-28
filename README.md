@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0242-valid-anagram) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
