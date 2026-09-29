@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1314-matrix-block-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
+| [1207-unique-number-of-occurrences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
