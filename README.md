@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
