@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0219-contains-duplicate-ii) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0242-valid-anagram) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -765,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
@@ -834,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
