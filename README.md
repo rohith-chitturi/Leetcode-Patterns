@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
 | [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
 | [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
