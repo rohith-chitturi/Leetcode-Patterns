@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0219-contains-duplicate-ii) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
@@ -854,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
