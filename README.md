@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0454-4sum-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
