@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0219-contains-duplicate-ii) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -874,4 +878,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
