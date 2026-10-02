@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0835-image-overlap) |
+| [0846-hand-of-straights](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0846-hand-of-straights) |
 | [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0930-binary-subarrays-with-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
