@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0724-find-pivot-index) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2390-removing-stars-from-a-string) |
