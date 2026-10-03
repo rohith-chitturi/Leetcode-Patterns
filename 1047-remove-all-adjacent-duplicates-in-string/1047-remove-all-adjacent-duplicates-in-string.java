@@ -2,8 +2,8 @@ class Solution {
     public String removeDuplicates(String s) {
         Stack<Character> st=new Stack<>();
         int n=s.length();
-        st.push(s.charAt(0));
-        for(int i=1;i<n;i++){
+        //st.push(s.charAt(0));
+        for(int i=0;i<n;i++){
             char ch=s.charAt(i);
             if(!st.isEmpty() && st.peek()==ch){
                 st.pop();
