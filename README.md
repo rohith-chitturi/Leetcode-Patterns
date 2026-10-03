@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0922-sort-array-by-parity-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2390-removing-stars-from-a-string) |
