@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
