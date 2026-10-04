@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0767-reorganize-string) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
