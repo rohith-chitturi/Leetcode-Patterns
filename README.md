@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -921,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
