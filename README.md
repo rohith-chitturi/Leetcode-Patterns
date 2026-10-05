@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0846-hand-of-straights) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1124-longest-well-performing-interval) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1793-maximum-score-of-a-good-subarray) |
