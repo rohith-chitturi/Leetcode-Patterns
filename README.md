@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0155-min-stack) |
+| [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0682-baseball-game) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0658-find-k-closest-elements) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
 |  |
