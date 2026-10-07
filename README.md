@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0392-is-subsequence) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
