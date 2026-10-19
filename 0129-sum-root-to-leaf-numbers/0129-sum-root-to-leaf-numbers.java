@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    List<String> al=new ArrayList<>();
     public int sumNumbers(TreeNode root) {
         return helper(root,"");
     }
