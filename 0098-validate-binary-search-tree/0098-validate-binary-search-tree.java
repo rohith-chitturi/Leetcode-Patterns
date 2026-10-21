@@ -22,11 +22,11 @@ class Solution {
         isValidBST(root.left);
         al.add(root.val);
         isValidBST(root.right);
-        for(int i=0;i<al.size()-1;i++){
-            if(al.get(i)>=al.get(i+1)){
+        for(int i=1;i<al.size();i++){
+            if(al.get(i)<=al.get(i-1)){
                 return false;
             }
         }
-        return true;
+        return true;//this is brute force approach 
     }
 }
