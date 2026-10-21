@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
