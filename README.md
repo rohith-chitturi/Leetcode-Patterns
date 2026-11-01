@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0496-next-greater-element-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0633-sum-of-square-numbers) |
