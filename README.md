@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1510-stone-game-iv) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1208-get-equal-substrings-within-budget) |
 | [1314-matrix-block-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1352-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -1131,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1352-product-of-the-last-k-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
