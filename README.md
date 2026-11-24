@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0217-contains-duplicate) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/0835-image-overlap) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/rohith-chitturi/Leetcode-Patterns/tree/master/1267-count-servers-that-communicate) |
