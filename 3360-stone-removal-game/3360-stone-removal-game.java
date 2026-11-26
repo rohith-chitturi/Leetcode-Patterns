@@ -1,26 +1,35 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        if(n<10){
-            return false;
+        // if(n<10){
+        //     return false;
+        // }
+        // if(n<19){
+        //     return true;
+        // }
+        // if(n<27){
+        //     return false;
+        // }
+        // if(n<34){
+        //     return true;
+        // }
+        // if(n<40){
+        //     return false;
+        // }
+        // if(n<45){
+        //     return true;
+        // }
+        // if(n<49){
+        //     return false;
+        // }
+        // return true;Brute force
+        //simulation step by step
+        int remove=10;
+        boolean alice=true;
+        while(n>=remove && remove>0){
+            n-=remove;
+            remove--;
+            alice=!alice;
         }
-        if(n<19){
-            return true;
-        }
-        if(n<27){
-            return false;
-        }
-        if(n<34){
-            return true;
-        }
-        if(n<40){
-            return false;
-        }
-        if(n<45){
-            return true;
-        }
-        if(n<49){
-            return false;
-        }
-        return true;
+        return !alice;
     }
 }
